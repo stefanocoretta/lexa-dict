@@ -1,23 +1,23 @@
 #let dict(contents) = {
-  show "noun": [n]
-  show "verb": [v]
-  show "adjective": [adj]
-  show "adverb": [adv]
-  show "particle": [ptc]
-  show "numeral": [num]
+  show "noun": [n.]
+  show "verb": [v.]
+  show "adjective": [adj.]
+  show "adverb": [adv.]
+  show "particle": [ptc.]
+  show "numeral": [num.]
 
   // Typeset each entry
   for (entry, value) in contents [
     // entry and phon
-    *#value.entry* /#value.phon/ #box(width: 1em)
+    *#value.entry* #text(font: "Fira Sans", size: 0.8em)[/#value.phon/] #box(width: 0.5em)
     // pos
-    #emph[#value.part_of_speech]
+    #text(fill: blue, style: "italic")[#value.part_of_speech]
     // inflectional classes
     #let has_infl = value.at("inflectional_features", default: false)
     #if has_infl != false [
       #show "reme": it => smallcaps()[r]
       #show "lapy": it => smallcaps()[l]
-      (#value.inflectional_features.class)
+      #text(fill: maroon)[#value.inflectional_features.class]
     ]
     // senses
     #let senses_n = value.senses.len()

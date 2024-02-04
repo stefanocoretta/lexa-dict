@@ -42,8 +42,8 @@ lx_000036:
   senses:
     se_01:
       id: se_01
-      gloss: trim; prune
-      definition: trim; prune
+      gloss: trim
+      definition: trim, prune
       inflectional_features:
         class: lapy
   date_created: 2022-01-15 11:20:31
@@ -127,7 +127,7 @@ lx_000073:
   morph_type: root
   part_of_speech: adjective
   inflectional_features:
-    class: rapy
+    class: lapy
   etymology: From *epo* 'eye' and *ke'o* 'void; empty' > *ep(o)k(e')o*. *epo* 'eye'
     also meaning 'glistnening'
   notes: ''
@@ -615,8 +615,8 @@ lx_000025:
   senses:
     se_01:
       id: se_01
-      gloss: call; invocation
-      definition: call; invocation
+      gloss: call
+      definition: call, invocation
       inflectional_features:
         class: reme
   date_created: 2022-01-15 11:20:31
@@ -762,8 +762,8 @@ lx_000043:
   senses:
     se_01:
       id: se_01
-      gloss: judgment; sensibility
-      definition: judgment; sensibility
+      gloss: judgment
+      definition: judgment, sensibility
       inflectional_features:
         class: reme
   date_created: 2022-01-15 11:20:31
@@ -1096,8 +1096,8 @@ lx_000033:
   senses:
     se_01:
       id: se_01
-      gloss: exist; be
-      definition: exist; be
+      gloss: be
+      definition: to exist, to be
       inflectional_features:
         class: lapy
   date_created: 2022-01-15 11:20:31
@@ -1121,12 +1121,12 @@ lx_00005f:
   senses:
     se_01:
       id: se_01
-      gloss: soul; spirit
-      definition: soul; spirit
+      gloss: soul
+      definition: soul, spirit
       inflectional_features:
         class: reme
   date_created: 2022-01-15 11:20:31
-  date_modified: 2022-01-15 11:20:31
+  date_modified: '2024-02-04'
 lx_00003d:
   id: lx_00003d
   entry: lai
@@ -1220,7 +1220,7 @@ lx_000005:
     se_01:
       id: se_01
       gloss: soil
-      definition: dirt; soil
+      definition: dirt, soil
   date_created: 2022-01-15 11:20:31
   date_modified: 2022-01-15 11:20:31
 lx_00005b:
@@ -1281,7 +1281,7 @@ lx_000072:
   morph_type: root
   part_of_speech: verb
   inflectional_features:
-    class: rapy
+    class: lapy
   etymology: ''
   notes: ''
   allomorphs:
@@ -1780,8 +1780,8 @@ lx_00003f:
   senses:
     se_01:
       id: se_01
-      gloss: get; obtain
-      definition: get; obtain
+      gloss: get
+      definition: get, obtain
       inflectional_features:
         class: lapy
   date_created: 2022-01-15 11:20:31
@@ -2507,7 +2507,7 @@ lx_000084:
     se_01:
       id: se_01
       gloss: priestess
-      definition: high priestess; female shaman
+      definition: high priestess, female shaman
   date_created: 2022-01-23 22:11:16
   date_modified: 2022-01-23 22:11:16
 lx_000011:
@@ -2990,7 +2990,7 @@ lx_00004d:
     se_01:
       id: se_01
       gloss: there.then
-      definition: there.then
+      definition: there and then
       inflectional_features:
         class: lapy
   date_created: 2022-01-15 11:20:31
@@ -3015,7 +3015,7 @@ lx_00004f:
     se_01:
       id: se_01
       gloss: there.now
-      definition: there.now
+      definition: there and now
       inflectional_features:
         class: lapy
   date_created: 2022-01-15 11:20:31
