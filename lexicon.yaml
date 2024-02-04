@@ -2425,8 +2425,9 @@ lx_000046:
   part_of_speech: noun
   inflectional_features:
     class: lapy
-  etymology: .na.character
-  notes: .na.character
+  etymology: ~
+  notes: ~
+  homophone: 1
   allomorphs:
     al_01:
       id: al_01
@@ -2452,6 +2453,7 @@ lx_000047:
     class: reme
   etymology: sero 'river'
   notes: Changed to reme
+  homophone: 2
   allomorphs:
     al_01:
       id: al_01

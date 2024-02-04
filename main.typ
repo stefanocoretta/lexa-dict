@@ -1,4 +1,5 @@
 #let dict(contents) = {
+  // define abbreviations
   show "noun": [n.]
   show "verb": [v.]
   show "adjective": [adj.]
@@ -8,39 +9,36 @@
 
   // Typeset each entry
   for (entry, value) in contents [
-    // entry and phon
-    *#value.entry* #text(font: "Fira Sans", size: 0.8em)[/#value.phon/] #box(width: 0.5em)
-    // pos
-    #text(fill: blue, style: "italic")[#value.part_of_speech]
-    // inflectional classes
-    #let has_infl = value.at("inflectional_features", default: false)
-    #if has_infl != false [
-      #show "reme": it => smallcaps()[r]
-      #show "lapy": it => smallcaps()[l]
-      #text(fill: maroon)[#value.inflectional_features.class]
-    ]
+    // lexeme
+    #let has_hom = value.at("homophone", default: false)
+    #strong()[#value.entry#if has_hom != false [#sub()[#value.homophone]]]
+    // phonetic/phonemic transcription
+    #text(font: "Fira Sans", size: 0.8em)[/#value.phon/]
+    // horizontal space between lexeme/phon and rest
+    #box(width: 0.5em)
+    //
     // senses
     #let senses_n = value.senses.len()
     #let sense_i = 1
     #for (i, y) in value.senses {
       // just insert the sense without numeric idx
       // if only one sense
-      if senses_n == 1 {
-        box(
-          sym.circle.filled,
-          inset: (left: 5pt, right: 2pt)
-        )
-        " " + y.definition
-      } else {
-        box(
-          // circle(fill: black, radius: 2pt),
-          sym.circle.filled,
-          inset: (left: 5pt, right: 2pt)
-        ) + strong(str(sense_i) + ". ")
-        y.definition
-        " "
+      if senses_n > 1 {
+        "• " + strong(str(sense_i) + ". ")
         sense_i = sense_i + 1
       }
+      // pos
+      text(fill: blue, style: "italic")[#value.part_of_speech]
+      //
+      // inflectional classes
+      let has_infl = value.at("inflectional_features", default: false)
+      if has_infl != false [
+        // define classes abbreviations and styling
+        #show "reme": it => smallcaps()[r]
+        #show "lapy": it => smallcaps()[l]
+        (#text(fill: maroon)[#value.inflectional_features.class])
+      ]
+      y.definition + " "
     }
     
   ]
