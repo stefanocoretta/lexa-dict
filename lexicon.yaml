@@ -1,138 +1,3285 @@
-lx_000001:
-  id: lx_000001
-  entry: gąryon
-  phon: ˈgɔrjon
+lx_000037:
+  id: lx_000037
+  entry: aika
+  phon: aika
   morph_category: lexical
   morph_type: root
   part_of_speech: noun
   inflectional_features:
-    class: -jon(t)
+    class: lapy
+  etymology: .na.character
+  notes: .na.character
   allomorphs:
     al_01:
       id: al_01
-      morph: gąr
-      phon: gɔr
+      morph: aika
+      phon: aika
+  senses:
+    se_01:
+      id: se_01
+      gloss: pruning
+      definition: pruning
+      inflectional_features:
+        class: lapy
+  date_created: 2022-01-15 11:20:31
+  date_modified: 2022-01-15 11:20:31
+lx_000036:
+  id: lx_000036
+  entry: aiky
+  phon: aikə
+  morph_category: lexical
+  morph_type: root
+  part_of_speech: verb
+  inflectional_features:
+    class: lapy
+  etymology: .na.character
+  notes: .na.character
+  allomorphs:
+    al_01:
+      id: al_01
+      morph: aiky
+      phon: aikə
+  senses:
+    se_01:
+      id: se_01
+      gloss: trim; prune
+      definition: trim; prune
+      inflectional_features:
+        class: lapy
+  date_created: 2022-01-15 11:20:31
+  date_modified: 2022-01-15 11:20:31
+lx_000058:
+  id: lx_000058
+  entry: ako
+  phon: ako
+  morph_category: lexical
+  morph_type: root
+  part_of_speech: numeral
+  inflectional_features:
+    class: lapy
+  etymology: .na.character
+  notes: .na.character
+  allomorphs:
+    al_01:
+      id: al_01
+      morph: ako
+      phon: ako
+  senses:
+    se_01:
+      id: se_01
+      gloss: seven
+      definition: seven
+      inflectional_features:
+        class: lapy
+  date_created: 2022-01-15 11:20:31
+  date_modified: 2022-01-15 11:20:31
+lx_000029:
+  id: lx_000029
+  entry: atho
+  phon: aθo
+  morph_category: lexical
+  morph_type: root
+  part_of_speech: noun
+  inflectional_features:
+    class: reme
+  allomorphs:
+    al_01:
+      id: al_01
+      morph: atho
+      phon: aθo
+  senses:
+    se_01:
+      id: se_01
+      gloss: moon
+      definition: moon
+  date_created: 2022-01-15 11:20:31
+  date_modified: 2022-01-15 11:20:31
+lx_00002d:
+  id: lx_00002d
+  entry: e'eso
+  phon: eʔeso
+  morph_category: lexical
+  morph_type: root
+  part_of_speech: noun
+  inflectional_features:
+    class: lapy
+  etymology: .na.character
+  notes: .na.character
+  allomorphs:
+    al_01:
+      id: al_01
+      morph: e'eso
+      phon: eʔeso
+  senses:
+    se_01:
+      id: se_01
+      gloss: understanding
+      definition: understanding
+      inflectional_features:
+        class: lapy
+  date_created: 2022-01-15 11:20:31
+  date_modified: 2022-01-15 11:20:31
+lx_000073:
+  id: lx_000073
+  entry: ehko
+  phon: eʰko
+  morph_category: lexical
+  morph_type: root
+  part_of_speech: adjective
+  inflectional_features:
+    class: rapy
+  etymology: From *epo* 'eye' and *ke'o* 'void; empty' > *ep(o)k(e')o*. *epo* 'eye'
+    also meaning 'glistnening'
+  notes: ''
+  allomorphs:
+    al_01:
+      id: al_01
+      morph: ehko
+      phon: eʰko
+  senses:
+    se_01:
+      id: se_01
+      gloss: dark
+      definition: dark
+  date_created: 2022-01-15 20:21:55
+  date_modified: 2022-01-15 20:21:55
+lx_00003c:
+  id: lx_00003c
+  entry: eho
+  phon: eho
+  morph_category: lexical
+  morph_type: root
+  part_of_speech: noun
+  inflectional_features:
+    class: reme
+  allomorphs:
+    al_01:
+      id: al_01
+      morph: eho
+      phon: eho
+  senses:
+    se_01:
+      id: se_01
+      gloss: mind
+      definition: mind
+  date_created: 2022-01-15 11:20:31
+  date_modified: 2022-01-23 11:20:31
+lx_000012:
+  id: lx_000012
+  entry: eisha
+  phon: eiʃa
+  morph_category: lexical
+  morph_type: root
+  part_of_speech: noun
+  inflectional_features:
+    class: reme
+  etymology: .na.character
+  notes: .na.character
+  allomorphs:
+    al_01:
+      id: al_01
+      morph: eisha
+      phon: eiʃa
+  senses:
+    se_01:
+      id: se_01
+      gloss: hair
+      definition: hair
+      inflectional_features:
+        class: reme
+  date_created: 2022-01-15 11:20:31
+  date_modified: 2022-01-15 11:20:31
+lx_000049:
+  id: lx_000049
+  entry: ema
+  phon: ema
+  morph_category: lexical
+  morph_type: root
+  part_of_speech: adjective
+  inflectional_features:
+    class: lapy
+  etymology: .na.character
+  notes: .na.character
+  allomorphs:
+    al_01:
+      id: al_01
+      morph: ema
+      phon: ema
+  senses:
+    se_01:
+      id: se_01
+      gloss: patient
+      definition: patient
+      inflectional_features:
+        class: lapy
+  date_created: 2022-01-15 11:20:31
+  date_modified: 2022-01-15 11:20:31
+lx_000088:
+  id: lx_000088
+  entry: emaho
+  phon: emaho
+  morph_category: lexical
+  morph_type: root
+  part_of_speech: verb
+  inflectional_features:
+    class: lapy
+  etymology: Derived from {.etym e-} 'non' +  {.etym poho} 'change'.
+  allomorphs:
+    al_01:
+      id: al_01
+      morph: emaho
+      phon: emaho
+  senses:
+    se_01:
+      id: se_01
+      gloss: unchanging
+      definition: unchanging, steadfast, untouched
+  date_created: 2022-02-04 18:53:35
+  date_modified: 2022-02-04 18:53:35
+lx_000083:
+  id: lx_000083
+  entry: ento
+  phon: ento
+  morph_category: grammatical
+  morph_type: root
+  part_of_speech: particle
+  inflectional_features:
+    class: reme
+  allomorphs:
+    al_01:
+      id: al_01
+      morph: ento
+      phon: ento
+  senses:
+    se_01:
+      id: se_01
+      gloss: PERL
+      definition: perlative particle
+  date_created: 2022-01-15 21:42:15
+  date_modified: 2022-01-15 21:42:15
+lx_000015:
+  id: lx_000015
+  entry: epo
+  phon: epo
+  morph_category: lexical
+  morph_type: root
+  part_of_speech: noun
+  inflectional_features:
+    class: lapy
+  etymology: .na.character
+  notes: .na.character
+  allomorphs:
+    al_01:
+      id: al_01
+      morph: epo
+      phon: epo
+  senses:
+    se_01:
+      id: se_01
+      gloss: eye
+      definition: eye
+      inflectional_features:
+        class: lapy
+  date_created: 2022-01-15 11:20:31
+  date_modified: 2022-01-15 11:20:31
+lx_000024:
+  id: lx_000024
+  entry: esau
+  phon: esau
+  morph_category: lexical
+  morph_type: root
+  part_of_speech: noun
+  inflectional_features:
+    class: lapy
+  etymology: eso-y
+  notes: .na.character
+  allomorphs:
+    al_01:
+      id: al_01
+      morph: esau
+      phon: esau
+  senses:
+    se_01:
+      id: se_01
+      gloss: knowledge
+      definition: knowledge
+      inflectional_features:
+        class: lapy
+  date_created: 2022-01-15 11:20:31
+  date_modified: 2022-01-15 11:20:31
+lx_000022:
+  id: lx_000022
+  entry: eso
+  phon: eso
+  morph_category: lexical
+  morph_type: root
+  part_of_speech: verb
+  inflectional_features:
+    class: lapy
+  etymology: eso
+  notes: .na.character
+  allomorphs:
+    al_01:
+      id: al_01
+      morph: eso
+      phon: eso
+  senses:
+    se_01:
+      id: se_01
+      gloss: know
+      definition: know
+      inflectional_features:
+        class: lapy
+  date_created: 2022-01-15 11:20:31
+  date_modified: 2022-01-15 11:20:31
+lx_00001c:
+  id: lx_00001c
+  entry: eto
+  phon: ʔeto
+  morph_category: lexical
+  morph_type: root
+  part_of_speech: noun
+  inflectional_features:
+    class: reme
+  etymology: .na.character
+  notes: .na.character
+  allomorphs:
+    al_01:
+      id: al_01
+      morph: eto
+      phon: ʔeto
+  senses:
+    se_01:
+      id: se_01
+      gloss: leg
+      definition: leg
+      inflectional_features:
+        class: reme
+  date_created: 2022-01-15 11:20:31
+  date_modified: 2022-01-15 11:20:31
+lx_00002c:
+  id: lx_00002c
+  entry: fehpanta
+  phon: fəʰpanta
+  morph_category: lexical
+  morph_type: root
+  part_of_speech: noun
+  inflectional_features:
+    class: reme
+  etymology: .na.character
+  notes: .na.character
+  allomorphs:
+    al_01:
+      id: al_01
+      morph: fehpanta
+      phon: fəʰpanta
+  senses:
+    se_01:
+      id: se_01
+      gloss: running
+      definition: running
+      inflectional_features:
+        class: reme
+  date_created: 2022-01-15 11:20:31
+  date_modified: 2022-01-15 11:20:31
+lx_00006d:
+  id: lx_00006d
+  entry: felethy
+  phon: feleθə
+  morph_category: lexical
+  morph_type: root
+  part_of_speech: verb
+  inflectional_features:
+    class: reme
+  etymology: ''
+  notes: ''
+  allomorphs:
+    al_01:
+      id: al_01
+      morph: felethy
+      phon: feleθə
+  senses:
+    se_01:
+      id: se_01
+      gloss: lead
+      definition: to lead
+  date_created: 2022-01-15 20:07:38
+  date_modified: 2022-01-15 20:07:38
+lx_00006f:
+  id: lx_00006f
+  entry: fethyre
+  phon: feθəre
+  morph_category: lexical
+  morph_type: root
+  part_of_speech: verb
+  inflectional_features:
+    class: reme
+  etymology: From {.etym përëtÿ} 'to lead' + {.etym sore} 'to give', through {.etym
+    pëtÿ-srë}
+  allomorphs:
+    al_01:
+      id: al_01
+      morph: fethyre
+      phon: feθəre
+  senses:
+    se_01:
+      id: se_01
+      gloss: bear
+      definition: to bear
+  date_created: 2022-01-15 20:11:36
+  date_modified: 2022-01-15 20:11:36
+lx_000069:
+  id: lx_000069
+  entry: fyhyfyhpy
+  phon: fəhəfəʰpə
+  morph_category: lexical
+  morph_type: root
+  part_of_speech: verb
+  inflectional_features:
+    class: reme
+  etymology: Proto-Taric adjective *pyppy* 'bright'
+  notes: ''
+  allomorphs:
+    al_01:
+      id: al_01
+      morph: fyhyfyhpy
+      phon: fəhəfəʰpə
+  senses:
+    se_01:
+      id: se_01
+      gloss: brighten
+      definition: to brighten
+  date_created: 2022-01-15 16:00:33
+  date_modified: 2022-01-15 16:00:33
+lx_000042:
+  id: lx_000042
+  entry: fyshy
+  phon: fəʃə
+  morph_category: lexical
+  morph_type: root
+  part_of_speech: verb
+  inflectional_features:
+    class: reme
+  etymology: .na.character
+  notes: .na.character
+  allomorphs:
+    al_01:
+      id: al_01
+      morph: fyshy
+      phon: fəʃə
+  senses:
+    se_01:
+      id: se_01
+      gloss: judge
+      definition: judge
+      inflectional_features:
+        class: reme
+  date_created: 2022-01-15 11:20:31
+  date_modified: 2022-01-15 11:20:31
+lx_000021:
+  id: lx_000021
+  entry: hanta
+  phon: hanta
+  morph_category: lexical
+  morph_type: root
+  part_of_speech: noun
+  inflectional_features:
+    class: reme
+  etymology: .na.character
+  notes: .na.character
+  allomorphs:
+    al_01:
+      id: al_01
+      morph: hanta
+      phon: hanta
+  senses:
+    se_01:
+      id: se_01
+      gloss: focus
+      definition: focus
+      inflectional_features:
+        class: reme
+  date_created: 2022-01-15 11:20:31
+  date_modified: 2022-01-15 11:20:31
+lx_000053:
+  id: lx_000053
+  entry: hau
+  phon: hau
+  morph_category: lexical
+  morph_type: root
+  part_of_speech: numeral
+  inflectional_features:
+    class: reme
+  etymology: .na.character
+  notes: .na.character
+  allomorphs:
+    al_01:
+      id: al_01
+      morph: hau
+      phon: hau
+  senses:
+    se_01:
+      id: se_01
+      gloss: two
+      definition: two
+      inflectional_features:
+        class: reme
+  date_created: 2022-01-15 11:20:31
+  date_modified: 2022-01-15 11:20:31
+lx_000068:
+  id: lx_000068
+  entry: hau
+  phon: hau
+  morph_category: lexical
+  morph_type: root
+  part_of_speech: adverb
+  inflectional_features:
+    class: reme
+  etymology: ''
+  notes: In Proto-Taric, a lapy word.
+  allomorphs:
+    al_01:
+      id: al_01
+      morph: hau
+      phon: hau
+  senses:
+    se_01:
+      id: se_01
+      gloss: 'no'
+      definition: 'no'
+  date_created: 2022-01-15 15:58:20
+  date_modified: 2022-01-15 15:58:20
+lx_000032:
+  id: lx_000032
+  entry: hento
+  phon: hento
+  morph_category: lexical
+  morph_type: root
+  part_of_speech: noun
+  inflectional_features:
+    class: reme
+  etymology: .na.character
+  notes: .na.character
+  allomorphs:
+    al_01:
+      id: al_01
+      morph: hento
+      phon: hento
+  senses:
+    se_01:
+      id: se_01
+      gloss: tree
+      definition: tree
+      inflectional_features:
+        class: reme
+  date_created: 2022-01-15 11:20:31
+  date_modified: 2022-01-15 11:20:31
+lx_000003:
+  id: lx_000003
+  entry: hetho
+  phon: heθo
+  morph_category: lexical
+  morph_type: root
+  part_of_speech: noun
+  inflectional_features:
+    class: reme
+  etymology: hëtö
+  allomorphs:
+    al_01:
+      id: al_01
+      morph: hetho
+      phon: heθo
+  senses:
+    se_01:
+      id: se_01
+      gloss: water
+      definition: water
+  date_created: 2022-01-15 11:20:31
+  date_modified: 2022-01-15 11:20:31
+lx_000025:
+  id: lx_000025
+  entry: hkahte
+  phon: ʰkaʰte
+  morph_category: lexical
+  morph_type: root
+  part_of_speech: noun
+  inflectional_features:
+    class: reme
+  etymology: .na.character
+  notes: .na.character
+  allomorphs:
+    al_01:
+      id: al_01
+      morph: hkahte
+      phon: ʰkaʰte
+  senses:
+    se_01:
+      id: se_01
+      gloss: call; invocation
+      definition: call; invocation
+      inflectional_features:
+        class: reme
+  date_created: 2022-01-15 11:20:31
+  date_modified: 2022-01-15 11:20:31
+lx_00001f:
+  id: lx_00001f
+  entry: hkala
+  phon: ʰkala
+  morph_category: lexical
+  morph_type: root
+  part_of_speech: noun
+  inflectional_features:
+    class: reme
+  etymology: .na.character
+  notes: .na.character
+  allomorphs:
+    al_01:
+      id: al_01
+      morph: hkala
+      phon: ʰkala
+  senses:
+    se_01:
+      id: se_01
+      gloss: wing
+      definition: wing
+      inflectional_features:
+        class: reme
+  date_created: 2022-01-15 11:20:31
+  date_modified: 2022-01-15 11:20:31
+lx_000051:
+  id: lx_000051
+  entry: hkeno
+  phon: ʰkeno
+  morph_category: lexical
+  morph_type: root
+  part_of_speech: noun
+  inflectional_features:
+    class: reme
+  etymology: .na.character
+  notes: .na.character
+  allomorphs:
+    al_01:
+      id: al_01
+      morph: hkeno
+      phon: ʰkeno
+  senses:
+    se_01:
+      id: se_01
+      gloss: bowl
+      definition: bowl
+      inflectional_features:
+        class: reme
+  date_created: 2022-01-15 11:20:31
+  date_modified: 2022-01-15 11:20:31
+lx_00002b:
+  id: lx_00002b
+  entry: hpanta
+  phon: ʰpanta
+  morph_category: lexical
+  morph_type: root
+  part_of_speech: verb
+  inflectional_features:
+    class: reme
+  etymology: .na.character
+  notes: .na.character
+  allomorphs:
+    al_01:
+      id: al_01
+      morph: hpanta
+      phon: ʰpanta
+  senses:
+    se_01:
+      id: se_01
+      gloss: run
+      definition: run
+      inflectional_features:
+        class: reme
+  date_created: 2022-01-15 11:20:31
+  date_modified: 2022-01-15 11:20:31
+lx_000075:
+  id: lx_000075
+  entry: hponai
+  phon: ʰponai
+  morph_category: lexical
+  morph_type: root
+  part_of_speech: noun
+  inflectional_features:
+    class: ''
+  etymology: Proto-Taric *ponna* 'sky'
+  allomorphs:
+    al_01:
+      id: al_01
+      morph: hponai
+      phon: ʰponai
+  senses:
+    se_01:
+      id: se_01
+      gloss: realms
+      definition: the spiritual realms, which bind the existing universe
+    se_02:
+      id: se_02
+      gloss: skies
+      definition: skies, in the expression *the skies will open*
+  date_created: 2022-01-15 20:26:34
+  date_modified: 2022-01-15 20:26:34
+lx_000028:
+  id: lx_000028
+  entry: hpy
+  phon: ʰpə
+  morph_category: lexical
+  morph_type: root
+  part_of_speech: noun
+  inflectional_features:
+    class: lapy
+  allomorphs:
+    al_01:
+      id: al_01
+      morph: hpy
+      phon: ʰpə
+  senses:
+    se_01:
+      id: se_01
+      gloss: sun
+      definition: sun
+  date_created: 2022-01-15 11:20:31
+  date_modified: 2022-01-15 11:20:31
+lx_000043:
+  id: lx_000043
+  entry: hpyshy
+  phon: ʰpəʃə
+  morph_category: lexical
+  morph_type: root
+  part_of_speech: noun
+  inflectional_features:
+    class: reme
+  etymology: .na.character
+  notes: .na.character
+  allomorphs:
+    al_01:
+      id: al_01
+      morph: hpyshy
+      phon: ʰpəʃə
+  senses:
+    se_01:
+      id: se_01
+      gloss: judgment; sensibility
+      definition: judgment; sensibility
+      inflectional_features:
+        class: reme
+  date_created: 2022-01-15 11:20:31
+  date_modified: 2022-01-15 11:20:31
+lx_00002f:
+  id: lx_00002f
+  entry: htaho
+  phon: ʰtaho
+  morph_category: lexical
+  morph_type: root
+  part_of_speech: noun
+  inflectional_features:
+    class: reme
+  etymology: .na.character
+  notes: .na.character
+  allomorphs:
+    al_01:
+      id: al_01
+      morph: htaho
+      phon: ʰtaho
+  senses:
+    se_01:
+      id: se_01
+      gloss: language
+      definition: language
+      inflectional_features:
+        class: reme
+  date_created: 2022-01-15 11:20:31
+  date_modified: 2022-01-15 11:20:31
+lx_00000d:
+  id: lx_00000d
+  entry: htena
+  phon: ʰtena
+  morph_category: lexical
+  morph_type: root
+  part_of_speech: noun
+  inflectional_features:
+    class: lapy
+  etymology: .na.character
+  notes: .na.character
+  allomorphs:
+    al_01:
+      id: al_01
+      morph: htena
+      phon: ʰtena
+  senses:
+    se_01:
+      id: se_01
+      gloss: louse
+      definition: louse
+      inflectional_features:
+        class: lapy
+  date_created: 2022-01-15 11:20:31
+  date_modified: 2022-01-15 11:20:31
+lx_00006c:
+  id: lx_00006c
+  entry: hyly
+  phon: hələ
+  morph_category: lexical
+  morph_type: root
+  part_of_speech: noun
+  inflectional_features:
+    class: reme
+  etymology: ''
+  notes: ''
+  allomorphs:
+    al_01:
+      id: al_01
+      morph: hyly
+      phon: hələ
+  senses:
+    se_01:
+      id: se_01
+      gloss: day
+      definition: day
+  date_created: 2022-01-15 20:02:36
+  date_modified: 2022-01-15 20:02:36
+lx_00001d:
+  id: lx_00001d
+  entry: kano
+  phon: kano
+  morph_category: lexical
+  morph_type: root
+  part_of_speech: noun
+  inflectional_features:
+    class: lapy
+  etymology: .na.character
+  notes: .na.character
+  allomorphs:
+    al_01:
+      id: al_01
+      morph: kano
+      phon: kano
+  senses:
+    se_01:
+      id: se_01
+      gloss: knee
+      definition: knee
+      inflectional_features:
+        class: lapy
+  date_created: 2022-01-15 11:20:31
+  date_modified: 2022-01-15 11:20:31
+lx_00000c:
+  id: lx_00000c
+  entry: kapy
+  phon: kapə
+  morph_category: lexical
+  morph_type: root
+  part_of_speech: noun
+  inflectional_features:
+    class: lapy
+  etymology: .na.character
+  notes: .na.character
+  allomorphs:
+    al_01:
+      id: al_01
+      morph: kapy
+      phon: kapə
+  senses:
+    se_01:
+      id: se_01
+      gloss: dog
+      definition: dog
+      inflectional_features:
+        class: lapy
+  date_created: 2022-01-15 11:20:31
+  date_modified: 2022-01-15 11:20:31
+lx_00007c:
+  id: lx_00007c
+  entry: ke
+  phon: ke
+  morph_category: grammatical
+  morph_type: root
+  part_of_speech: particle
+  inflectional_features:
+    class: lapy/reme
+  allomorphs:
+    al_01:
+      id: al_01
+      morph: ke
+      phon: ke
+    al_02:
+      id: al_02
+      morph: she
+      phon: ʃe
+  senses:
+    se_01:
+      id: se_01
+      gloss: BEN
+      definition: benefactive
+  date_created: 2022-01-15 20:46:26
+  date_modified: 2022-01-15 20:46:26
+lx_000078:
+  id: lx_000078
+  entry: ke'o
+  phon: keʔo
+  morph_category: lexical
+  morph_type: root
+  part_of_speech: adjective
+  inflectional_features:
+    class: lapy
+  etymology: ''
+  notes: ''
+  allomorphs:
+    al_01:
+      id: al_01
+      morph: ke'o
+      phon: keʔo
+  senses:
+    se_01:
+      id: se_01
+      gloss: void
+      definition: void, empty, hollow
+  date_created: 2022-01-15 20:34:57
+  date_modified: 2022-01-15 20:34:57
+lx_000080:
+  id: lx_000080
+  entry: koko
+  phon: koko
+  morph_category: lexical
+  morph_type: root
+  part_of_speech: adverb
+  inflectional_features:
+    class: lapy
+  allomorphs:
+    al_01:
+      id: al_01
+      morph: koko
+      phon: koko
+  senses:
+    se_01:
+      id: se_01
+      gloss: then
+      definition: then, afterwards
+  date_created: 2022-01-15 21:34:16
+  date_modified: 2022-01-15 21:34:16
+lx_000086:
+  id: lx_000086
+  entry: kola
+  phon: kola
+  morph_category: grammatical
+  morph_type: root
+  part_of_speech: adverb
+  etymology: kora
+  allomorphs:
+    al_01:
+      id: al_01
+      morph: kola
+      phon: kola
+  senses:
+    se_01:
+      id: se_01
+      gloss: yet
+      definition: yet, notwithstanding
+  date_created: 2022-02-04 18:34:10
+  date_modified: 2022-02-04 18:34:10
+lx_000062:
+  id: lx_000062
+  entry: kosa
+  phon: kosa
+  morph_category: lexical
+  morph_type: root
+  part_of_speech: verb
+  inflectional_features:
+    class: lapy
+  etymology: .na.character
+  notes: .na.character
+  allomorphs:
+    al_01:
+      id: al_01
+      morph: kosa
+      phon: kosa
+  senses:
+    se_01:
+      id: se_01
+      gloss: eat
+      definition: eat
+      inflectional_features:
+        class: lapy
+  date_created: 2022-01-15 11:20:31
+  date_modified: 2022-01-15 11:20:31
+lx_00000f:
+  id: lx_00000f
+  entry: la'e
+  phon: laʔe
+  morph_category: lexical
+  morph_type: root
+  part_of_speech: noun
+  inflectional_features:
+    class: lapy
+  etymology: .na.character
+  notes: .na.character
+  allomorphs:
+    al_01:
+      id: al_01
+      morph: la'e
+      phon: laʔe
+  senses:
+    se_01:
+      id: se_01
+      gloss: worm
+      definition: worm
+      inflectional_features:
+        class: lapy
+  date_created: 2022-01-15 11:20:31
+  date_modified: 2022-01-15 11:20:31
+lx_000065:
+  id: lx_000065
+  entry: lafy
+  phon: lafə
+  morph_category: lexical
+  morph_type: root
+  part_of_speech: verb
+  inflectional_features:
+    class: reme
+  etymology: .na.character
+  notes: From PT räpÿ 'darken'
+  allomorphs:
+    al_01:
+      id: al_01
+      morph: lafy
+      phon: lafə
+  senses:
+    se_01:
+      id: se_01
+      gloss: burn
+      definition: burn
+      inflectional_features:
+        class: reme
+  date_created: 2022-01-15 11:20:31
+  date_modified: 2022-01-15 11:20:31
+lx_000081:
+  id: lx_000081
+  entry: lafy
+  phon: lafə
+  morph_category: lexical
+  morph_type: root
+  part_of_speech: verb
+  inflectional_features:
+    class: reme
+  etymology: Thale *rapy* 'dirt', through Proto-Taric *räpÿ* 'black, dark'
+  allomorphs:
+    al_01:
+      id: al_01
+      morph: lafy
+      phon: lafə
+  senses:
+    se_01:
+      id: se_01
+      gloss: burn
+      definition: to burn, to reduce to charcoal
+  date_created: 2022-01-15 21:35:09
+  date_modified: 2022-01-15 21:35:09
+lx_000033:
+  id: lx_000033
+  entry: lahta
+  phon: laʰta
+  morph_category: lexical
+  morph_type: root
+  part_of_speech: verb
+  inflectional_features:
+    class: lapy
+  etymology: .na.character
+  notes: .na.character
+  allomorphs:
+    al_01:
+      id: al_01
+      morph: lahta
+      phon: laʰta
+  senses:
+    se_01:
+      id: se_01
+      gloss: exist; be
+      definition: exist; be
+      inflectional_features:
+        class: lapy
+  date_created: 2022-01-15 11:20:31
+  date_modified: 2022-01-15 11:20:31
+lx_00005f:
+  id: lx_00005f
+  entry: lahta
+  phon: laʰta
+  morph_category: lexical
+  morph_type: root
+  part_of_speech: noun
+  inflectional_features:
+    class: reme
+  etymology: .na.character
+  notes: .na.character
+  allomorphs:
+    al_01:
+      id: al_01
+      morph: lahta
+      phon: laʰta
+  senses:
+    se_01:
+      id: se_01
+      gloss: soul; spirit
+      definition: soul; spirit
+      inflectional_features:
+        class: reme
+  date_created: 2022-01-15 11:20:31
+  date_modified: 2022-01-15 11:20:31
+lx_00003d:
+  id: lx_00003d
+  entry: lai
+  phon: lai
+  morph_category: lexical
+  morph_type: root
+  part_of_speech: adverb
+  inflectional_features:
+    class: lapy
+  etymology: rate 'full'
+  notes: .na.character
+  allomorphs:
+    al_01:
+      id: al_01
+      morph: lai
+      phon: lai
+  senses:
+    se_01:
+      id: se_01
+      gloss: all
+      definition: all
+      inflectional_features:
+        class: lapy
+  date_created: 2022-01-15 11:20:31
+  date_modified: 2022-01-15 11:20:31
+lx_00001e:
+  id: lx_00001e
+  entry: laka
+  phon: laka
+  morph_category: lexical
+  morph_type: root
+  part_of_speech: noun
+  inflectional_features:
+    class: lapy
+  etymology: .na.character
+  notes: .na.character
+  allomorphs:
+    al_01:
+      id: al_01
+      morph: laka
+      phon: laka
+  senses:
+    se_01:
+      id: se_01
+      gloss: hand
+      definition: hand
+      inflectional_features:
+        class: lapy
+  date_created: 2022-01-15 11:20:31
+  date_modified: 2022-01-15 11:20:31
+lx_000004:
+  id: lx_000004
+  entry: lapy
+  phon: lapə
+  morph_category: lexical
+  morph_type: root
+  part_of_speech: noun
+  inflectional_features:
+    class: lapy
+  etymology: rapy
+  notes: This meaning refers only to one of the four elements; Earth. It does not
+    mean planet Earth.
+  allomorphs:
+    al_01:
+      id: al_01
+      morph: lapy
+      phon: lapə
+  senses:
+    se_01:
+      id: se_01
+      gloss: Earth (ritual.)
+      definition: Earth (ritual.)
+  date_created: 2022-01-15 11:20:31
+  date_modified: 2022-01-15 11:20:31
+lx_000005:
+  id: lx_000005
+  entry: lapy
+  phon: lapə
+  morph_category: lexical
+  morph_type: root
+  part_of_speech: noun
+  inflectional_features:
+    class: lapy
+  etymology: rapy
+  allomorphs:
+    al_01:
+      id: al_01
+      morph: lapy
+      phon: lapə
   senses:
     se_01:
       id: se_01
       gloss: soil
-      definition: soil, dirt
-lx_000002:
-  id: lx_000002
-  entry: unullose
-  phon: unullose
+      definition: dirt; soil
+  date_created: 2022-01-15 11:20:31
+  date_modified: 2022-01-15 11:20:31
+lx_00005b:
+  id: lx_00005b
+  entry: late
+  phon: late
   morph_category: lexical
   morph_type: root
-  part_of_speech: verb
+  part_of_speech: numeral
   inflectional_features:
-    class: IV
+    class: lapy
+  etymology: .na.character
+  notes: .na.character
   allomorphs:
     al_01:
       id: al_01
-      morph: nul
-      phon: nul
-    al_02:
-      id: al_02
-      morph: unul
-      phon: unul
+      morph: late
+      phon: late
   senses:
     se_01:
       id: se_01
-      gloss: love
-      definition: to love
-lx_000003:
-  id: lx_000003
-  entry: vēselse
-  phon: veɪselse
+      gloss: ten
+      definition: ten
+      inflectional_features:
+        class: lapy
+  date_created: 2022-01-15 11:20:31
+  date_modified: 2022-01-15 11:20:31
+lx_000044:
+  id: lx_000044
+  entry: lauma
+  phon: lauma
   morph_category: lexical
   morph_type: root
   part_of_speech: verb
   inflectional_features:
-    class: II
+    class: lapy
+  etymology: .na.character
+  notes: .na.character
   allomorphs:
     al_01:
       id: al_01
-      morph: vēsel
-      phon: veɪsel
+      morph: lauma
+      phon: lauma
+  senses:
+    se_01:
+      id: se_01
+      gloss: apply
+      definition: apply
+      inflectional_features:
+        class: lapy
+  date_created: 2022-01-15 11:20:31
+  date_modified: 2022-01-15 11:20:31
+lx_000072:
+  id: lx_000072
+  entry: loka
+  phon: loka
+  morph_category: lexical
+  morph_type: root
+  part_of_speech: verb
+  inflectional_features:
+    class: rapy
+  etymology: ''
+  notes: ''
+  allomorphs:
+    al_01:
+      id: al_01
+      morph: loka
+      phon: loka
+  senses:
+    se_01:
+      id: se_01
+      gloss: lay
+      definition: to lay
+  date_created: 2022-01-15 20:20:04
+  date_modified: 2022-01-15 20:20:04
+lx_00006b:
+  id: lx_00006b
+  entry: lokalo
+  phon: lokalo
+  morph_category: lexical
+  morph_type: root
+  part_of_speech: noun
+  inflectional_features:
+    class: rapy
+  etymology: From *roka royma* 'the application of laying'; cf with Thale lau 'RES'
+  notes: ''
+  allomorphs:
+    al_01:
+      id: al_01
+      morph: lokalo
+      phon: lokalo
+  senses:
+    se_01:
+      id: se_01
+      gloss: night
+      definition: night
+  date_created: 2022-01-15 19:59:36
+  date_modified: 2022-01-15 19:59:36
+lx_000055:
+  id: lx_000055
+  entry: ly
+  phon: lə
+  morph_category: lexical
+  morph_type: root
+  part_of_speech: numeral
+  inflectional_features:
+    class: reme
+  etymology: .na.character
+  notes: .na.character
+  allomorphs:
+    al_01:
+      id: al_01
+      morph: ly
+      phon: lə
+  senses:
+    se_01:
+      id: se_01
+      gloss: four
+      definition: four
+      inflectional_features:
+        class: reme
+  date_created: 2022-01-15 11:20:31
+  date_modified: 2022-01-15 11:20:31
+lx_000027:
+  id: lx_000027
+  entry: lyreme
+  phon: ləreme
+  morph_category: lexical
+  morph_type: root
+  part_of_speech: noun
+  inflectional_features:
+    class: reme
+  etymology: .na.character
+  notes: .na.character
+  allomorphs:
+    al_01:
+      id: al_01
+      morph: lyreme
+      phon: ləreme
+  senses:
+    se_01:
+      id: se_01
+      gloss: breath
+      definition: breath
+      inflectional_features:
+        class: reme
+  date_created: 2022-01-15 11:20:31
+  date_modified: 2022-01-15 11:20:31
+lx_00006a:
+  id: lx_00006a
+  entry: montyro
+  phon: montəro
+  morph_category: lexical
+  morph_type: root
+  part_of_speech: adjective
+  inflectional_features:
+    class: reme
+  etymology: From *mmönnÿ royma*. De-gemination of n and gemination of r unexplained
+  notes: ''
+  allomorphs:
+    al_01:
+      id: al_01
+      morph: montyro
+      phon: montəro
+  senses:
+    se_01:
+      id: se_01
+      gloss: blind
+      definition: blind
+  date_created: 2022-01-15 19:54:16
+  date_modified: 2022-01-15 19:54:16
+lx_000074:
+  id: lx_000074
+  entry: mony
+  phon: monə
+  morph_category: lexical
+  morph_type: root
+  part_of_speech: noun
+  inflectional_features:
+    class: reme
+  etymology: ''
+  notes: ''
+  allomorphs:
+    al_01:
+      id: al_01
+      morph: mony
+      phon: monə
+  senses:
+    se_01:
+      id: se_01
+      gloss: veil
+      definition: veil
+  date_created: 2022-01-15 20:25:28
+  date_modified: 2022-01-15 20:25:28
+lx_000019:
+  id: lx_000019
+  entry: mosho
+  phon: moʃo
+  morph_category: lexical
+  morph_type: root
+  part_of_speech: noun
+  inflectional_features:
+    class: reme
+  etymology: .na.character
+  notes: .na.character
+  allomorphs:
+    al_01:
+      id: al_01
+      morph: mosho
+      phon: moʃo
+  senses:
+    se_01:
+      id: se_01
+      gloss: tongue
+      definition: tongue
+      inflectional_features:
+        class: reme
+  date_created: 2022-01-15 11:20:31
+  date_modified: 2022-01-15 11:20:31
+lx_000079:
+  id: lx_000079
+  entry: my
+  phon: mə
+  morph_category: grammatical
+  morph_type: root
+  part_of_speech: particle
+  inflectional_features:
+    class: lapy
+  allomorphs:
+    al_01:
+      id: al_01
+      morph: my
+      phon: mə
+  senses:
+    se_01:
+      id: se_01
+      gloss: LOC
+      definition: locative particle
+  date_created: 2022-01-15 20:37:11
+  date_modified: 2022-01-15 20:37:11
+lx_000016:
+  id: lx_000016
+  entry: mymo
+  phon: məmo
+  morph_category: lexical
+  morph_type: root
+  part_of_speech: noun
+  inflectional_features:
+    class: lapy
+  etymology: .na.character
+  notes: .na.character
+  allomorphs:
+    al_01:
+      id: al_01
+      morph: mymo
+      phon: məmo
+  senses:
+    se_01:
+      id: se_01
+      gloss: nose
+      definition: nose
+      inflectional_features:
+        class: lapy
+  date_created: 2022-01-15 11:20:31
+  date_modified: 2022-01-15 11:20:31
+lx_00005e:
+  id: lx_00005e
+  entry: mympy
+  phon: məmpə
+  morph_category: lexical
+  morph_type: root
+  part_of_speech: noun
+  inflectional_features:
+    class: reme
+  etymology: .na.character
+  notes: .na.character
+  allomorphs:
+    al_01:
+      id: al_01
+      morph: mympy
+      phon: məmpə
+  senses:
+    se_01:
+      id: se_01
+      gloss: purify
+      definition: purify
+      inflectional_features:
+        class: reme
+  date_created: 2022-01-15 11:20:31
+  date_modified: 2022-01-15 11:20:31
+lx_000054:
+  id: lx_000054
+  entry: na
+  phon: na
+  morph_category: lexical
+  morph_type: root
+  part_of_speech: numeral
+  inflectional_features:
+    class: reme
+  etymology: .na.character
+  notes: .na.character
+  allomorphs:
+    al_01:
+      id: al_01
+      morph: na
+      phon: na
+  senses:
+    se_01:
+      id: se_01
+      gloss: three
+      definition: three
+      inflectional_features:
+        class: reme
+  date_created: 2022-01-15 11:20:31
+  date_modified: 2022-01-15 11:20:31
+lx_00005d:
+  id: lx_00005d
+  entry: nehko
+  phon: neʰko
+  morph_category: lexical
+  morph_type: root
+  part_of_speech: noun
+  inflectional_features:
+    class: reme
+  etymology: .na.character
+  notes: .na.character
+  allomorphs:
+    al_01:
+      id: al_01
+      morph: nehko
+      phon: neʰko
+  senses:
+    se_01:
+      id: se_01
+      gloss: smoke
+      definition: smoke
+      inflectional_features:
+        class: reme
+  date_created: 2022-01-15 11:20:31
+  date_modified: 2022-01-15 11:20:31
+lx_000059:
+  id: lx_000059
+  entry: 'no'
+  phon: 'no'
+  morph_category: lexical
+  morph_type: root
+  part_of_speech: numeral
+  inflectional_features:
+    class: lapy
+  etymology: .na.character
+  notes: .na.character
+  allomorphs:
+    al_01:
+      id: al_01
+      morph: 'no'
+      phon: 'no'
+  senses:
+    se_01:
+      id: se_01
+      gloss: eight
+      definition: eight
+      inflectional_features:
+        class: lapy
+  date_created: 2022-01-15 11:20:31
+  date_modified: 2022-01-15 11:20:31
+lx_000034:
+  id: lx_000034
+  entry: ny'o
+  phon: nəʔo
+  morph_category: lexical
+  morph_type: root
+  part_of_speech: verb
+  inflectional_features:
+    class: lapy
+  etymology: .na.character
+  notes: .na.character
+  allomorphs:
+    al_01:
+      id: al_01
+      morph: ny'o
+      phon: nəʔo
+  senses:
+    se_01:
+      id: se_01
+      gloss: do
+      definition: do
+      inflectional_features:
+        class: lapy
+  date_created: 2022-01-15 11:20:31
+  date_modified: 2022-01-15 11:20:31
+lx_00007a:
+  id: lx_00007a
+  entry: o
+  phon: o
+  morph_category: grammatical
+  morph_type: root
+  part_of_speech: particle
+  inflectional_features:
+    class: lapy
+  allomorphs:
+    al_01:
+      id: al_01
+      morph: o
+      phon: o
+  senses:
+    se_01:
+      id: se_01
+      gloss: ESS
+      definition: essive particle
+      inflectional_features:
+        type: nominal
+    se_02:
+      id: se_02
+      gloss: PART
+      definition: participle
+      inflectional_features:
+        type: verbal
+  date_created: 2022-01-15 20:39:22
+  date_modified: 2022-01-15 20:39:22
+lx_000050:
+  id: lx_000050
+  entry: o'eso
+  phon: oʔeso
+  morph_category: lexical
+  morph_type: root
+  part_of_speech: verb
+  inflectional_features:
+    class: lapy
+  etymology: .na.character
+  notes: .na.character
+  allomorphs:
+    al_01:
+      id: al_01
+      morph: o'eso
+      phon: oʔeso
   senses:
     se_01:
       id: se_01
       gloss: understand
-      definition: to understand
-    se_02:
-      id: se_02
-      gloss: learn
-      definition: to learn
-lx_000004:
-  id: lx_000004
-  entry: evēsellose
-  phon: eveɪsellose
+      definition: understand
+      inflectional_features:
+        class: lapy
+  date_created: 2022-01-15 11:20:31
+  date_modified: 2022-01-15 11:20:31
+lx_000041:
+  id: lx_000041
+  entry: o’ona
+  phon: oʔona
   morph_category: lexical
   morph_type: root
   part_of_speech: verb
   inflectional_features:
-    class: IV
-  etymology: From {.etym vēselse} 'to learn'.
+    class: lapy
+  etymology: .na.character
+  notes: From ona ‘to get’
   allomorphs:
     al_01:
       id: al_01
-      morph: vēsel
-      phon: veɪsel
-    al_02:
-      id: al_02
-      morph: evēsel
-      phon: eveɪsel
+      morph: o’ona
+      phon: oʔona
   senses:
     se_01:
       id: se_01
-      gloss: teach
-      definition: to teach
-lx_000005:
-  id: lx_000005
-  entry: chǭs
-  phon: tʃɵːs
+      gloss: accumulate
+      definition: accumulate
+      inflectional_features:
+        class: lapy
+  date_created: 2022-01-15 11:20:31
+  date_modified: 2022-01-15 11:20:31
+lx_00007b:
+  id: lx_00007b
+  entry: ola
+  phon: ola
   morph_category: lexical
   morph_type: root
   part_of_speech: adverb
+  inflectional_features:
+    class: lapy
   allomorphs:
     al_01:
       id: al_01
-      morph: chǭs
-      phon: tʃɵːs
+      morph: ola
+      phon: ola
   senses:
     se_01:
       id: se_01
-      gloss: tomorrow
-      definition: tomorrow
-  date_created: 2022-01-14 21:13:41
-  date_modified: 2022-01-14 21:13:41
-  notes: Note that in Eleryon this word means 'tomorrow' if used by noon, otherwise
-    it means 'the day after tomorrow'.
-lx_000006:
-  id: lx_000006
-  entry: urųrtose
-  phon: uryrtose
+      gloss: so_that
+      definition: so that
+  date_created: 2022-01-15 20:42:43
+  date_modified: 2022-01-15 20:42:43
+lx_000040:
+  id: lx_000040
+  entry: omasy
+  phon: omasə
+  morph_category: lexical
+  morph_type: root
+  part_of_speech: noun
+  inflectional_features:
+    class: lapy
+  etymology: omasy 'root'
+  notes: .na.character
+  allomorphs:
+    al_01:
+      id: al_01
+      morph: omasy
+      phon: omasə
+  senses:
+    se_01:
+      id: se_01
+      gloss: principle
+      definition: principle
+      inflectional_features:
+        class: lapy
+  date_created: 2022-01-15 11:20:31
+  date_modified: 2022-01-15 11:20:31
+lx_00001a:
+  id: lx_00001a
+  entry: ona
+  phon: ona
+  morph_category: lexical
+  morph_type: root
+  part_of_speech: noun
+  inflectional_features:
+    class: reme
+  etymology: .na.character
+  notes: .na.character
+  allomorphs:
+    al_01:
+      id: al_01
+      morph: ona
+      phon: ona
+  senses:
+    se_01:
+      id: se_01
+      gloss: fingernail
+      definition: fingernail
+      inflectional_features:
+        class: reme
+  date_created: 2022-01-15 11:20:31
+  date_modified: 2022-01-15 11:20:31
+lx_00003f:
+  id: lx_00003f
+  entry: ona
+  phon: ʔona
   morph_category: lexical
   morph_type: root
   part_of_speech: verb
   inflectional_features:
-    class: I
+    class: lapy
+  etymology: .na.character
+  notes: .na.character
   allomorphs:
     al_01:
       id: al_01
-      morph: ųrt
-      phon: yrt
-    al_02:
-      id: al_02
-      morph: urųrt
-      phon: uryrt
+      morph: ona
+      phon: ʔona
   senses:
     se_01:
       id: se_01
-      gloss: sit
-      definition: to sit
-      examples:
-      - tx_000001:st_000001
-      - tx_000001:st_000002
-  date_created: 2022-01-23 09:51:16
-  date_modified: 2022-01-23 09:51:16
+      gloss: get; obtain
+      definition: get; obtain
+      inflectional_features:
+        class: lapy
+  date_created: 2022-01-15 11:20:31
+  date_modified: 2022-01-15 11:20:31
+lx_000066:
+  id: lx_000066
+  entry: onau
+  phon: onau
+  morph_category: lexical
+  morph_type: root
+  part_of_speech: verb
+  inflectional_features:
+    class: rapy
+  etymology: ''
+  notes: ''
+  allomorphs:
+    al_01:
+      id: al_01
+      morph: onau
+      phon: onau
+  senses:
+    se_01:
+      id: se_01
+      gloss: sing
+      definition: to sing
+  date_created: 2022-01-15 15:54:27
+  date_modified: 2022-01-15 15:54:27
+lx_00007e:
+  id: lx_00007e
+  entry: onau
+  phon: onau
+  morph_category: lexical
+  morph_type: root
+  part_of_speech: verb
+  inflectional_features:
+    class: lapy
+  allomorphs:
+    al_01:
+      id: al_01
+      morph: onau
+      phon: onau
+  senses:
+    se_01:
+      id: se_01
+      gloss: sing
+      definition: to sing
+  date_created: 2022-01-15 21:32:03
+  date_modified: 2022-01-15 21:32:03
+lx_000087:
+  id: lx_000087
+  entry: paho
+  phon: paho
+  morph_category: lexical
+  morph_type: root
+  part_of_speech: verb
+  inflectional_features:
+    class: reme
+  etymology: From {.etym mähö} 'to bend'
+  allomorphs:
+    al_01:
+      id: al_01
+      morph: paho
+      phon: ~
+  senses:
+    se_01:
+      id: se_01
+      gloss: change
+      definition: to change
+  date_created: 2022-02-04 18:48:36
+  date_modified: 2022-02-04 18:48:36
+lx_000056:
+  id: lx_000056
+  entry: pei
+  phon: pei
+  morph_category: lexical
+  morph_type: root
+  part_of_speech: numeral
+  inflectional_features:
+    class: reme
+  etymology: .na.character
+  notes: .na.character
+  allomorphs:
+    al_01:
+      id: al_01
+      morph: pei
+      phon: pei
+  senses:
+    se_01:
+      id: se_01
+      gloss: five
+      definition: five
+      inflectional_features:
+        class: reme
+  date_created: 2022-01-15 11:20:31
+  date_modified: 2022-01-15 11:20:31
+lx_00000b:
+  id: lx_00000b
+  entry: pompo
+  phon: pompo
+  morph_category: lexical
+  morph_type: root
+  part_of_speech: noun
+  inflectional_features:
+    class: reme
+  etymology: .na.character
+  notes: .na.character
+  allomorphs:
+    al_01:
+      id: al_01
+      morph: pompo
+      phon: pompo
+  senses:
+    se_01:
+      id: se_01
+      gloss: bird
+      definition: bird
+      inflectional_features:
+        class: reme
+  date_created: 2022-01-15 11:20:31
+  date_modified: 2022-01-15 11:20:31
+lx_000064:
+  id: lx_000064
+  entry: pona
+  phon: pona
+  morph_category: lexical
+  morph_type: root
+  part_of_speech: noun
+  inflectional_features:
+    class: lapy
+  etymology: .na.character
+  notes: .na.character
+  allomorphs:
+    al_01:
+      id: al_01
+      morph: pona
+      phon: pona
+  senses:
+    se_01:
+      id: se_01
+      gloss: sky
+      definition: sky
+      inflectional_features:
+        class: lapy
+  date_created: 2022-01-15 11:20:31
+  date_modified: 2022-01-15 11:20:31
+lx_000020:
+  id: lx_000020
+  entry: pora
+  phon: pora
+  morph_category: lexical
+  morph_type: root
+  part_of_speech: noun
+  inflectional_features:
+    class: lapy
+  etymology: .na.character
+  notes: .na.character
+  allomorphs:
+    al_01:
+      id: al_01
+      morph: pora
+      phon: pora
+  senses:
+    se_01:
+      id: se_01
+      gloss: belly
+      definition: belly
+      inflectional_features:
+        class: lapy
+  date_created: 2022-01-15 11:20:31
+  date_modified: 2022-01-15 11:20:31
+lx_00002a:
+  id: lx_00002a
+  entry: pyhpy
+  phon: pəʰpə
+  morph_category: lexical
+  morph_type: root
+  part_of_speech: adjective
+  inflectional_features:
+    class: lapy
+  etymology: .na.character
+  notes: .na.character
+  allomorphs:
+    al_01:
+      id: al_01
+      morph: pyhpy
+      phon: pəʰpə
+  senses:
+    se_01:
+      id: se_01
+      gloss: bright
+      definition: bright
+      inflectional_features:
+        class: lapy
+  date_created: 2022-01-15 11:20:31
+  date_modified: 2022-01-15 11:20:31
+lx_00004a:
+  id: lx_00004a
+  entry: pyla
+  phon: pəla
+  morph_category: lexical
+  morph_type: root
+  part_of_speech: adjective
+  inflectional_features:
+    class: lapy
+  etymology: .na.character
+  notes: .na.character
+  allomorphs:
+    al_01:
+      id: al_01
+      morph: pyla
+      phon: pəla
+  senses:
+    se_01:
+      id: se_01
+      gloss: good
+      definition: good
+      inflectional_features:
+        class: lapy
+  date_created: 2022-01-15 11:20:31
+  date_modified: 2022-01-15 11:20:31
+lx_000045:
+  id: lx_000045
+  entry: rauma
+  phon: rauma
+  morph_category: lexical
+  morph_type: root
+  part_of_speech: noun
+  inflectional_features:
+    class: lapy
+  etymology: .na.character
+  notes: .na.character
+  allomorphs:
+    al_01:
+      id: al_01
+      morph: rauma
+      phon: rauma
+  senses:
+    se_01:
+      id: se_01
+      gloss: application
+      definition: application
+      inflectional_features:
+        class: lapy
+  date_created: 2022-01-15 11:20:31
+  date_modified: 2022-01-15 11:20:31
+lx_000082:
+  id: lx_000082
+  entry: rehpy
+  phon: reʰpə
+  morph_category: lexical
+  morph_type: root
+  part_of_speech: noun
+  inflectional_features:
+    class: lapy
+  etymology: Proto-Taric intensifier *rre-* 'INTS' + *ppy* 'sun'
+  allomorphs:
+    al_01:
+      id: al_01
+      morph: rehpy
+      phon: reʰpə
+  senses:
+    se_01:
+      id: se_01
+      gloss: incense
+      definition: incense
+  date_created: 2022-01-15 21:37:42
+  date_modified: 2022-01-15 21:37:42
+lx_000001:
+  id: lx_000001
+  entry: reme
+  phon: reme
+  morph_category: lexical
+  morph_type: root
+  part_of_speech: noun
+  inflectional_features:
+    class: reme
+  etymology: reme
+  allomorphs:
+    al_01:
+      id: al_01
+      morph: reme
+      phon: reme
+  senses:
+    se_01:
+      id: se_01
+      gloss: air
+      definition: air
+  date_created: 2022-01-15 11:20:31
+  date_modified: 2022-01-15 11:20:31
+lx_000026:
+  id: lx_000026
+  entry: reme
+  phon: reme
+  morph_category: lexical
+  morph_type: root
+  part_of_speech: verb
+  inflectional_features:
+    class: reme
+  etymology: .na.character
+  notes: .na.character
+  allomorphs:
+    al_01:
+      id: al_01
+      morph: reme
+      phon: reme
+  senses:
+    se_01:
+      id: se_01
+      gloss: breathe
+      definition: breathe
+      inflectional_features:
+        class: reme
+  date_created: 2022-01-15 11:20:31
+  date_modified: 2022-01-15 11:20:31
+lx_00004e:
+  id: lx_00004e
+  entry: rohe
+  phon: rohe
+  morph_category: lexical
+  morph_type: root
+  part_of_speech: adverb
+  inflectional_features:
+    class: reme
+  etymology: rrö-te here-ABL (irregular te > he; arc. rothe)
+  notes: .na.character
+  allomorphs:
+    al_01:
+      id: al_01
+      morph: rohe
+      phon: rohe
+  senses:
+    se_01:
+      id: se_01
+      gloss: here.now
+      definition: here.now
+      inflectional_features:
+        class: reme
+  date_created: 2022-01-15 11:20:31
+  date_modified: 2022-01-15 11:20:31
+lx_000085:
+  id: lx_000085
+  entry: rohte
+  phon: roʰte
+  morph_category: lexical
+  morph_type: root
+  part_of_speech: noun
+  inflectional_features:
+    class: reme
+  etymology: From {.etym rrotte} 'depths' and {.etym tare} 'out'
+  notes: The oceans were thought to come from the depths of the planet, so that 'waters
+    from the depths' was a frequent expression.
+  allomorphs:
+    al_01:
+      id: al_01
+      morph: rohte
+      phon: roʰte
+  senses:
+    se_01:
+      id: se_01
+      gloss: ocean
+      definition: ocean, great sea
+  date_created: 2022-02-03 21:29:55
+  date_modified: 2022-02-03 21:29:55
+lx_00004c:
+  id: lx_00004c
+  entry: rohy
+  phon: rohə
+  morph_category: lexical
+  morph_type: root
+  part_of_speech: adverb
+  inflectional_features:
+    class: reme
+  etymology: rrö-sy here-ALL
+  notes: .na.character
+  allomorphs:
+    al_01:
+      id: al_01
+      morph: rohy
+      phon: rohə
+  senses:
+    se_01:
+      id: se_01
+      gloss: here.then
+      definition: here.then
+      inflectional_features:
+        class: reme
+  date_created: 2022-01-15 11:20:31
+  date_modified: 2022-01-15 11:20:31
+lx_000067:
+  id: lx_000067
+  entry: sa
+  phon: sa
+  morph_category: lexical
+  morph_type: root
+  part_of_speech: adverb
+  inflectional_features:
+    class: reme
+  etymology: ''
+  notes: ''
+  allomorphs:
+    al_01:
+      id: al_01
+      morph: sa
+      phon: sa
+  senses:
+    se_01:
+      id: se_01
+      gloss: 'yes'
+      definition: 'yes'
+  date_created: 2022-01-15 15:57:35
+  date_modified: 2022-01-15 15:57:35
+lx_00000e:
+  id: lx_00000e
+  entry: sahe
+  phon: sahe
+  morph_category: lexical
+  morph_type: root
+  part_of_speech: noun
+  inflectional_features:
+    class: reme
+  etymology: .na.character
+  notes: .na.character
+  allomorphs:
+    al_01:
+      id: al_01
+      morph: sahe
+      phon: sahe
+  senses:
+    se_01:
+      id: se_01
+      gloss: snake
+      definition: snake
+      inflectional_features:
+        class: reme
+  date_created: 2022-01-15 11:20:31
+  date_modified: 2022-01-15 11:20:31
+lx_00003b:
+  id: lx_00003b
+  entry: sahe
+  phon: sahe
+  morph_category: lexical
+  morph_type: root
+  part_of_speech: noun
+  inflectional_features:
+    class: reme
+  etymology: .na.character
+  notes: .na.character
+  allomorphs:
+    al_01:
+      id: al_01
+      morph: sahe
+      phon: sahe
+  senses:
+    se_01:
+      id: se_01
+      gloss: awareness
+      definition: awareness
+      inflectional_features:
+        class: reme
+  date_created: 2022-01-15 11:20:31
+  date_modified: 2022-01-15 11:20:31
+lx_000038:
+  id: lx_000038
+  entry: salo
+  phon: salo
+  morph_category: lexical
+  morph_type: root
+  part_of_speech: adjective
+  inflectional_features:
+    class: lapy
+  etymology: .na.character
+  notes: .na.character
+  allomorphs:
+    al_01:
+      id: al_01
+      morph: salo
+      phon: salo
+  senses:
+    se_01:
+      id: se_01
+      gloss: necessary
+      definition: necessary
+      inflectional_features:
+        class: lapy
+  date_created: 2022-01-15 11:20:31
+  date_modified: 2022-01-15 11:20:31
+lx_000076:
+  id: lx_000076
+  entry: sampo
+  phon: sampo
+  morph_category: lexical
+  morph_type: root
+  part_of_speech: adjective
+  inflectional_features:
+    class: reme
+  etymology: Proto-Taric *sämö* rest
+  allomorphs:
+    al_01:
+      id: al_01
+      morph: sampo
+      phon: sampo
+  senses:
+    se_01:
+      id: se_01
+      gloss: tranquil
+      definition: tranquil, quiet
+    se_02:
+      id: se_02
+      gloss: immovable
+      definition: immovable, unchanging
+  date_created: 2022-01-15 20:32:01
+  date_modified: 2022-01-15 20:32:01
+lx_000077:
+  id: lx_000077
+  entry: sampo
+  phon: sampo
+  morph_category: lexical
+  morph_type: root
+  part_of_speech: noun
+  inflectional_features:
+    class: reme
+  etymology: From {.etym sämö} 'rest'.
+  allomorphs:
+    al_01:
+      id: al_01
+      morph: sampo
+      phon: sampo
+  senses:
+    se_01:
+      id: se_01
+      gloss: rest
+      definition: rest, state of pondering and reflection
+  date_created: 2022-01-15 20:33:34
+  date_modified: 2022-01-15 20:33:34
+lx_000013:
+  id: lx_000013
+  entry: sase
+  phon: sase
+  morph_category: lexical
+  morph_type: root
+  part_of_speech: noun
+  inflectional_features:
+    class: lapy
+  etymology: .na.character
+  notes: .na.character
+  allomorphs:
+    al_01:
+      id: al_01
+      morph: sase
+      phon: sase
+  senses:
+    se_01:
+      id: se_01
+      gloss: head
+      definition: head
+      inflectional_features:
+        class: lapy
+  date_created: 2022-01-15 11:20:31
+  date_modified: 2022-01-15 11:20:31
+lx_000063:
+  id: lx_000063
+  entry: sashy
+  phon: saʃə
+  morph_category: lexical
+  morph_type: root
+  part_of_speech: verb
+  inflectional_features:
+    class: reme
+  etymology: .na.character
+  notes: .na.character
+  allomorphs:
+    al_01:
+      id: al_01
+      morph: sashy
+      phon: saʃə
+  senses:
+    se_01:
+      id: se_01
+      gloss: rain
+      definition: rain
+      inflectional_features:
+        class: reme
+  date_created: 2022-01-15 11:20:31
+  date_modified: 2022-01-15 11:20:31
+lx_00005a:
+  id: lx_00005a
+  entry: sei
+  phon: sei
+  morph_category: lexical
+  morph_type: root
+  part_of_speech: numeral
+  inflectional_features:
+    class: lapy
+  etymology: .na.character
+  notes: .na.character
+  allomorphs:
+    al_01:
+      id: al_01
+      morph: sei
+      phon: sei
+  senses:
+    se_01:
+      id: se_01
+      gloss: nine
+      definition: nine
+      inflectional_features:
+        class: lapy
+  date_created: 2022-01-15 11:20:31
+  date_modified: 2022-01-15 11:20:31
+lx_00000a:
+  id: lx_00000a
+  entry: seka
+  phon: seka
+  morph_category: lexical
+  morph_type: root
+  part_of_speech: noun
+  inflectional_features:
+    class: lapy
+  etymology: .na.character
+  notes: .na.character
+  allomorphs:
+    al_01:
+      id: al_01
+      morph: seka
+      phon: seka
+  senses:
+    se_01:
+      id: se_01
+      gloss: fish
+      definition: fish
+      inflectional_features:
+        class: lapy
+  date_created: 2022-01-15 11:20:31
+  date_modified: 2022-01-15 11:20:31
+lx_000046:
+  id: lx_000046
+  entry: selo
+  phon: selo
+  morph_category: lexical
+  morph_type: root
+  part_of_speech: noun
+  inflectional_features:
+    class: lapy
+  etymology: .na.character
+  notes: .na.character
+  allomorphs:
+    al_01:
+      id: al_01
+      morph: selo
+      phon: selo
+  senses:
+    se_01:
+      id: se_01
+      gloss: universal energy
+      definition: universal energy
+      inflectional_features:
+        class: lapy
+  date_created: 2022-01-15 11:20:31
+  date_modified: 2022-01-15 11:20:31
+lx_000047:
+  id: lx_000047
+  entry: selo
+  phon: selo
+  morph_category: lexical
+  morph_type: root
+  part_of_speech: noun
+  inflectional_features:
+    class: reme
+  etymology: sero 'river'
+  notes: Changed to reme
+  allomorphs:
+    al_01:
+      id: al_01
+      morph: selo
+      phon: selo
+  senses:
+    se_01:
+      id: se_01
+      gloss: river
+      definition: river
+      inflectional_features:
+        class: reme
+  date_created: 2022-01-15 11:20:31
+  date_modified: 2022-01-15 11:20:31
+lx_000007:
+  id: lx_000007
+  entry: shahte
+  phon: ʃaʰte
+  morph_category: lexical
+  morph_type: root
+  part_of_speech: verb
+  inflectional_features:
+    class: reme
+  etymology: kättë
+  allomorphs:
+    al_01:
+      id: al_01
+      morph: shahte
+      phon: ʃaʰte
+  senses:
+    se_01:
+      id: se_01
+      gloss: call
+      definition: call
+  date_created: 2022-01-15 11:20:31
+  date_modified: 2022-01-15 11:20:31
+lx_000084:
+  id: lx_000084
+  entry: shamathe
+  phon: ʃamaθe
+  morph_category: lexical
+  morph_type: root
+  part_of_speech: noun
+  inflectional_features:
+    class: reme
+  etymology: From PT {.etym kämÿ-rätë} 'see-full, all-seeing', through {.etym kämmätë}
+  allomorphs:
+    al_01:
+      id: al_01
+      morph: shamathe
+      phon: ʃamaθe
+  senses:
+    se_01:
+      id: se_01
+      gloss: priestess
+      definition: high priestess; female shaman
+  date_created: 2022-01-23 22:11:16
+  date_modified: 2022-01-23 22:11:16
+lx_000011:
+  id: lx_000011
+  entry: shampa
+  phon: ʃampa
+  morph_category: lexical
+  morph_type: root
+  part_of_speech: noun
+  inflectional_features:
+    class: reme
+  etymology: .na.character
+  notes: .na.character
+  allomorphs:
+    al_01:
+      id: al_01
+      morph: shampa
+      phon: ʃampa
+  senses:
+    se_01:
+      id: se_01
+      gloss: bone
+      definition: bone
+      inflectional_features:
+        class: reme
+  date_created: 2022-01-15 11:20:31
+  date_modified: 2022-01-15 11:20:31
+lx_000031:
+  id: lx_000031
+  entry: shampy
+  phon: ʃampə
+  morph_category: lexical
+  morph_type: root
+  part_of_speech: verb
+  inflectional_features:
+    class: reme
+  etymology: .na.character
+  notes: .na.character
+  allomorphs:
+    al_01:
+      id: al_01
+      morph: shampy
+      phon: ʃampə
+  senses:
+    se_01:
+      id: se_01
+      gloss: see
+      definition: see
+      inflectional_features:
+        class: reme
+  date_created: 2022-01-15 11:20:31
+  date_modified: 2022-01-15 11:20:31
+lx_000048:
+  id: lx_000048
+  entry: shashe
+  phon: ʃaʃe
+  morph_category: lexical
+  morph_type: root
+  part_of_speech: noun
+  inflectional_features:
+    class: reme
+  etymology: kämÿ-kë see-first 'to experience'
+  notes: .na.character
+  allomorphs:
+    al_01:
+      id: al_01
+      morph: shashe
+      phon: ʃaʃe
+  senses:
+    se_01:
+      id: se_01
+      gloss: experience
+      definition: experience
+      inflectional_features:
+        class: reme
+  date_created: 2022-01-15 11:20:31
+  date_modified: 2022-01-15 11:20:31
+lx_000052:
+  id: lx_000052
+  entry: she
+  phon: ʃe
+  morph_category: lexical
+  morph_type: root
+  part_of_speech: numeral
+  inflectional_features:
+    class: reme
+  allomorphs:
+    al_01:
+      id: al_01
+      morph: she
+      phon: ʃe
+  senses:
+    se_01:
+      id: se_01
+      gloss: one
+      definition: one
+  date_created: 2022-01-15 11:20:31
+  date_modified: 2022-01-15 11:20:31
+lx_00006e:
+  id: lx_00006e
+  entry: shofa
+  phon: ʃofa
+  morph_category: lexical
+  morph_type: root
+  part_of_speech: noun
+  inflectional_features:
+    class: reme
+  etymology: ''
+  notes: ''
+  allomorphs:
+    al_01:
+      id: al_01
+      morph: shofa
+      phon: ʃofa
+  senses:
+    se_01:
+      id: se_01
+      gloss: sleep
+      definition: sleep
+  date_created: 2022-01-15 20:09:49
+  date_modified: 2022-01-15 20:09:49
+lx_000070:
+  id: lx_000070
+  entry: shohke
+  phon: ʃoʰke
+  morph_category: lexical
+  morph_type: root
+  part_of_speech: noun
+  inflectional_features:
+    class: reme
+  etymology: From *köpä ÿkkë* 'dream wisdom'
+  notes: ''
+  allomorphs:
+    al_01:
+      id: al_01
+      morph: shohke
+      phon: ʃoʰke
+  senses:
+    se_01:
+      id: se_01
+      gloss: dream
+      definition: dream
+  date_created: 2022-01-15 20:14:24
+  date_modified: 2022-01-15 20:14:24
+lx_000009:
+  id: lx_000009
+  entry: shyho
+  phon: ʃəho
+  morph_category: lexical
+  morph_type: root
+  part_of_speech: noun
+  inflectional_features:
+    class: reme
+  etymology: .na.character
+  notes: .na.character
+  allomorphs:
+    al_01:
+      id: al_01
+      morph: shyho
+      phon: ʃəho
+  senses:
+    se_01:
+      id: se_01
+      gloss: animal
+      definition: animal
+      inflectional_features:
+        class: reme
+  date_created: 2022-01-15 11:20:31
+  date_modified: 2022-01-15 11:20:31
+lx_000002:
+  id: lx_000002
+  entry: sohka
+  phon: soʰka
+  morph_category: lexical
+  morph_type: root
+  part_of_speech: noun
+  inflectional_features:
+    class: lapy
+  etymology: sokka
+  allomorphs:
+    al_01:
+      id: al_01
+      morph: sohka
+      phon: soʰka
+  senses:
+    se_01:
+      id: se_01
+      gloss: fire
+      definition: fire
+  date_created: 2022-01-15 11:20:31
+  date_modified: 2022-01-15 11:20:31
+lx_00004b:
+  id: lx_00004b
+  entry: sohto
+  phon: ʃoʰto
+  morph_category: lexical
+  morph_type: root
+  part_of_speech: verb
+  inflectional_features:
+    class: reme
+  etymology: .na.character
+  notes: .na.character
+  allomorphs:
+    al_01:
+      id: al_01
+      morph: sohto
+      phon: ʃoʰto
+  senses:
+    se_01:
+      id: se_01
+      gloss: be.in
+      definition: be.in
+      inflectional_features:
+        class: reme
+  date_created: 2022-01-15 11:20:31
+  date_modified: 2022-01-15 11:20:31
+lx_000060:
+  id: lx_000060
+  entry: sole
+  phon: sole
+  morph_category: lexical
+  morph_type: root
+  part_of_speech: verb
+  inflectional_features:
+    class: lapy
+  etymology: .na.character
+  notes: .na.character
+  allomorphs:
+    al_01:
+      id: al_01
+      morph: sole
+      phon: sole
+  senses:
+    se_01:
+      id: se_01
+      gloss: give
+      definition: give
+      inflectional_features:
+        class: lapy
+  date_created: 2022-01-15 11:20:31
+  date_modified: 2022-01-15 11:20:31
+lx_00005c:
+  id: lx_00005c
+  entry: sopyme
+  phon: sopəme
+  morph_category: lexical
+  morph_type: root
+  part_of_speech: noun
+  inflectional_features:
+    class: lapy
+  etymology: .na.character
+  notes: .na.character
+  allomorphs:
+    al_01:
+      id: al_01
+      morph: sopyme
+      phon: sopəme
+  senses:
+    se_01:
+      id: se_01
+      gloss: sage
+      definition: sage
+      inflectional_features:
+        class: lapy
+  date_created: 2022-01-15 11:20:31
+  date_modified: 2022-01-15 11:20:31
+lx_000018:
+  id: lx_000018
+  entry: syke
+  phon: səke
+  morph_category: lexical
+  morph_type: root
+  part_of_speech: noun
+  inflectional_features:
+    class: lapy
+  etymology: .na.character
+  notes: .na.character
+  allomorphs:
+    al_01:
+      id: al_01
+      morph: syke
+      phon: səke
+  senses:
+    se_01:
+      id: se_01
+      gloss: tooth
+      definition: tooth
+      inflectional_features:
+        class: lapy
+  date_created: 2022-01-15 11:20:31
+  date_modified: 2022-01-15 11:20:31
+lx_00001b:
+  id: lx_00001b
+  entry: syny
+  phon: sənə
+  morph_category: lexical
+  morph_type: root
+  part_of_speech: noun
+  inflectional_features:
+    class: reme
+  etymology: .na.character
+  notes: Plural in -a.
+  allomorphs:
+    al_01:
+      id: al_01
+      morph: syny
+      phon: sənə
+  senses:
+    se_01:
+      id: se_01
+      gloss: foot
+      definition: foot
+      inflectional_features:
+        class: reme
+  date_created: 2022-01-15 11:20:31
+  date_modified: 2022-01-15 11:20:31
+lx_000010:
+  id: lx_000010
+  entry: tahei
+  phon: tahei
+  morph_category: lexical
+  morph_type: root
+  part_of_speech: noun
+  inflectional_features:
+    class: reme
+  etymology: .na.character
+  notes: Plurale tantum
+  allomorphs:
+    al_01:
+      id: al_01
+      morph: tahei
+      phon: tahei
+  senses:
+    se_01:
+      id: se_01
+      gloss: blood
+      definition: blood
+      inflectional_features:
+        class: reme
+  date_created: 2022-01-15 11:20:31
+  date_modified: 2022-01-15 11:20:31
+lx_000061:
+  id: lx_000061
+  entry: tahentahe
+  phon: tahentahe
+  morph_category: lexical
+  morph_type: root
+  part_of_speech: verb
+  inflectional_features:
+    class: reme
+  etymology: .na.character
+  notes: .na.character
+  allomorphs:
+    al_01:
+      id: al_01
+      morph: tahentahe
+      phon: tahentahe
+  senses:
+    se_01:
+      id: se_01
+      gloss: bleed
+      definition: bleed
+      inflectional_features:
+        class: reme
+  date_created: 2022-01-15 11:20:31
+  date_modified: 2022-01-15 11:20:31
+lx_00003a:
+  id: lx_00003a
+  entry: taithe
+  phon: taiθe
+  morph_category: lexical
+  morph_type: root
+  part_of_speech: verb
+  inflectional_features:
+    class: reme
+  etymology: .na.character
+  notes: .na.character
+  allomorphs:
+    al_01:
+      id: al_01
+      morph: taithe
+      phon: taiθe
+  senses:
+    se_01:
+      id: se_01
+      gloss: fill
+      definition: fill
+      inflectional_features:
+        class: reme
+  date_created: 2022-01-15 11:20:31
+  date_modified: 2022-01-15 11:20:31
+lx_000030:
+  id: lx_000030
+  entry: tale
+  phon: tale
+  morph_category: lexical
+  morph_type: root
+  part_of_speech: noun
+  inflectional_features:
+    class: lapy
+  etymology: .na.character
+  notes: .na.character
+  allomorphs:
+    al_01:
+      id: al_01
+      morph: tale
+      phon: tale
+  senses:
+    se_01:
+      id: se_01
+      gloss: exterior
+      definition: exterior
+      inflectional_features:
+        class: lapy
+  date_created: 2022-01-15 11:20:31
+  date_modified: 2022-01-15 11:20:31
+lx_000014:
+  id: lx_000014
+  entry: te
+  phon: te
+  morph_category: lexical
+  morph_type: root
+  part_of_speech: noun
+  inflectional_features:
+    class: lapy
+  etymology: .na.character
+  notes: .na.character
+  allomorphs:
+    al_01:
+      id: al_01
+      morph: te
+      phon: te
+  senses:
+    se_01:
+      id: se_01
+      gloss: ear
+      definition: ear
+      inflectional_features:
+        class: lapy
+  date_created: 2022-01-15 11:20:31
+  date_modified: 2022-01-15 11:20:31
+lx_00007f:
+  id: lx_00007f
+  entry: teito
+  phon: teito
+  morph_category: lexical
+  morph_type: root
+  part_of_speech: verb
+  inflectional_features:
+    class: lapy
+  allomorphs:
+    al_01:
+      id: al_01
+      morph: teito
+      phon: teito
+  senses:
+    se_01:
+      id: se_01
+      gloss: take_shelter
+      definition: to take shelter, to cover oneself
+  date_created: 2022-01-15 21:33:09
+  date_modified: 2022-01-15 21:33:09
+lx_00004d:
+  id: lx_00004d
+  entry: tesy
+  phon: tesə
+  morph_category: lexical
+  morph_type: root
+  part_of_speech: adverb
+  inflectional_features:
+    class: lapy
+  etymology: te-sy there-ALL
+  notes: .na.character
+  allomorphs:
+    al_01:
+      id: al_01
+      morph: tesy
+      phon: tesə
+  senses:
+    se_01:
+      id: se_01
+      gloss: there.then
+      definition: there.then
+      inflectional_features:
+        class: lapy
+  date_created: 2022-01-15 11:20:31
+  date_modified: 2022-01-15 11:20:31
+lx_00004f:
+  id: lx_00004f
+  entry: tete
+  phon: tete
+  morph_category: lexical
+  morph_type: root
+  part_of_speech: adverb
+  inflectional_features:
+    class: lapy
+  etymology: te-te there-ABL
+  notes: .na.character
+  allomorphs:
+    al_01:
+      id: al_01
+      morph: tete
+      phon: tete
+  senses:
+    se_01:
+      id: se_01
+      gloss: there.now
+      definition: there.now
+      inflectional_features:
+        class: lapy
+  date_created: 2022-01-15 11:20:31
+  date_modified: 2022-01-15 11:20:31
+lx_00002e:
+  id: lx_00002e
+  entry: thaho
+  phon: θaho
+  morph_category: lexical
+  morph_type: root
+  part_of_speech: verb
+  inflectional_features:
+    class: reme
+  etymology: .na.character
+  notes: .na.character
+  allomorphs:
+    al_01:
+      id: al_01
+      morph: thaho
+      phon: θaho
+  senses:
+    se_01:
+      id: se_01
+      gloss: say
+      definition: say
+      inflectional_features:
+        class: reme
+  date_created: 2022-01-15 11:20:31
+  date_modified: 2022-01-15 11:20:31
+lx_000008:
+  id: lx_000008
+  entry: Thale
+  phon: θale
+  morph_category: lexical
+  morph_type: root
+  part_of_speech: noun
+  inflectional_features:
+    class: lapy
+  etymology: tärë
+  allomorphs:
+    al_01:
+      id: al_01
+      morph: Thale
+      phon: θale
+  senses:
+    se_01:
+      id: se_01
+      gloss: Thale
+      definition: Thale
+  date_created: 2022-01-15 11:20:31
+  date_modified: 2022-01-15 11:20:31
+lx_00007d:
+  id: lx_00007d
+  entry: thau
+  phon: θau
+  morph_category: lexical
+  morph_type: root
+  part_of_speech: noun
+  inflectional_features:
+    class: reme
+  allomorphs:
+    al_01:
+      id: al_01
+      morph: thau
+      phon: θau
+  senses:
+    se_01:
+      id: se_01
+      gloss: sandal
+      definition: sandal, open shoe
+  date_created: 2022-01-15 21:30:53
+  date_modified: 2022-01-15 21:30:53
+lx_000017:
+  id: lx_000017
+  entry: thefe
+  phon: θefe
+  morph_category: lexical
+  morph_type: root
+  part_of_speech: noun
+  inflectional_features:
+    class: reme
+  etymology: .na.character
+  notes: .na.character
+  allomorphs:
+    al_01:
+      id: al_01
+      morph: thefe
+      phon: θefe
+  senses:
+    se_01:
+      id: se_01
+      gloss: mouth
+      definition: mouth
+      inflectional_features:
+        class: reme
+  date_created: 2022-01-15 11:20:31
+  date_modified: 2022-01-15 11:20:31
+lx_00003e:
+  id: lx_00003e
+  entry: thyho
+  phon: θəho
+  morph_category: lexical
+  morph_type: root
+  part_of_speech: verb
+  inflectional_features:
+    class: reme
+  etymology: .na.character
+  notes: .na.character
+  allomorphs:
+    al_01:
+      id: al_01
+      morph: thyho
+      phon: θəho
+  senses:
+    se_01:
+      id: se_01
+      gloss: order
+      definition: order
+      inflectional_features:
+        class: reme
+  date_created: 2022-01-15 11:20:31
+  date_modified: 2022-01-15 11:20:31
+lx_000057:
+  id: lx_000057
+  entry: to
+  phon: to
+  morph_category: lexical
+  morph_type: root
+  part_of_speech: numeral
+  inflectional_features:
+    class: lapy
+  etymology: .na.character
+  notes: .na.character
+  allomorphs:
+    al_01:
+      id: al_01
+      morph: to
+      phon: to
+  senses:
+    se_01:
+      id: se_01
+      gloss: six
+      definition: six
+      inflectional_features:
+        class: lapy
+  date_created: 2022-01-15 11:20:31
+  date_modified: 2022-01-15 11:20:31
+lx_000006:
+  id: lx_000006
+  entry: ty'o
+  phon: təʔo
+  morph_category: lexical
+  morph_type: root
+  part_of_speech: noun
+  inflectional_features:
+    class: lapy
+  etymology: ty'o
+  allomorphs:
+    al_01:
+      id: al_01
+      morph: ty'o
+      phon: təʔo
+  senses:
+    se_01:
+      id: se_01
+      gloss: power
+      definition: power
+  date_created: 2022-01-15 11:20:31
+  date_modified: 2022-01-15 11:20:31
+lx_000035:
+  id: lx_000035
+  entry: tyho
+  phon: təho
+  morph_category: lexical
+  morph_type: root
+  part_of_speech: noun
+  inflectional_features:
+    class: reme
+  etymology: .na.character
+  notes: .na.character
+  allomorphs:
+    al_01:
+      id: al_01
+      morph: tyho
+      phon: təho
+  senses:
+    se_01:
+      id: se_01
+      gloss: mastery
+      definition: mastery
+      inflectional_features:
+        class: reme
+  date_created: 2022-01-15 11:20:31
+  date_modified: 2022-01-15 11:20:31
+lx_000023:
+  id: lx_000023
+  entry: yhke
+  phon: əʰke
+  morph_category: lexical
+  morph_type: root
+  part_of_speech: noun
+  inflectional_features:
+    class: reme
+  etymology: ykke
+  notes: .na.character
+  allomorphs:
+    al_01:
+      id: al_01
+      morph: yhke
+      phon: əʰke
+  senses:
+    se_01:
+      id: se_01
+      gloss: wisdom
+      definition: wisdom
+      inflectional_features:
+        class: reme
+  date_created: 2022-01-15 11:20:31
+  date_modified: 2022-01-15 11:20:31
+lx_000071:
+  id: lx_000071
+  entry: yhkethy
+  phon: əʰkeθə
+  morph_category: lexical
+  morph_type: root
+  part_of_speech: adjective
+  inflectional_features:
+    class: reme
+  etymology: From *ÿkkë* 'wisdom' and *töÿ*
+  notes: ''
+  allomorphs:
+    al_01:
+      id: al_01
+      morph: yhkethy
+      phon: əʰkeθə
+  senses:
+    se_01:
+      id: se_01
+      gloss: insightful
+      definition: insightful
+  date_created: 2022-01-15 20:17:03
+  date_modified: 2022-01-15 20:17:03
+lx_000039:
+  id: lx_000039
+  entry: ylo
+  phon: əlo
+  morph_category: lexical
+  morph_type: root
+  part_of_speech: adjective
+  inflectional_features:
+    class: lapy
+  etymology: .na.character
+  notes: .na.character
+  allomorphs:
+    al_01:
+      id: al_01
+      morph: ylo
+      phon: əlo
+  senses:
+    se_01:
+      id: se_01
+      gloss: unnecessary
+      definition: unnecessary
+      inflectional_features:
+        class: lapy
+  date_created: 2022-01-15 11:20:31
+  date_modified: 2022-01-15 11:20:31
