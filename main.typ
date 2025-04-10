@@ -38,7 +38,8 @@
   for (grapheme, entry_list) in grapheme_dict [
 
     // Grapheme heading
-    #heading[#upper(grapheme)]
+    #align(center)[#heading[#upper(grapheme)]]
+    #line(length: 100%)
 
     // Typeset each entry in grapheme
     #for (entry, value) in entry_list [
