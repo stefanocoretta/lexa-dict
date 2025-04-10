@@ -36,12 +36,12 @@
   }
 
   for (grapheme, entry_list) in grapheme_dict [
+
+    // Grapheme heading
     #heading[#upper(grapheme)]
-    // #entry_list
 
+    // Typeset each entry in grapheme
     #for (entry, value) in entry_list [
-
-      // Typeset each entry
         // lexeme
         #let has_hom = value.at("homophone", default: false)
         #strong()[#value.entry#if has_hom != false [#sub()[#value.homophone]]]
