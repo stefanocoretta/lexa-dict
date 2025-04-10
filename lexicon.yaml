@@ -128,7 +128,7 @@ lx_000073:
   part_of_speech: adjective
   inflectional_features:
     class: lapy
-  etymology: From *epo* 'eye' and *ke'o* 'void; empty' > *ep(o)k(e')o*. *epo* 'eye'
+  etymology: From _epo_ 'eye' and _ke'o_ 'void; empty' > _ep(o)k(e')o_. _epo_ 'eye'
     also meaning 'glistnening'
   notes: ''
   allomorphs:
@@ -437,7 +437,7 @@ lx_000069:
   part_of_speech: verb
   inflectional_features:
     class: reme
-  etymology: Proto-Taric adjective *pyppy* 'bright'
+  etymology: Proto-Taric adjective _pyppy_ 'bright'
   notes: ''
   allomorphs:
     al_01:
@@ -705,7 +705,7 @@ lx_000075:
   part_of_speech: noun
   inflectional_features:
     class: ''
-  etymology: Proto-Taric *ponna* 'sky'
+  etymology: Proto-Taric _ponna_ 'sky'
   allomorphs:
     al_01:
       id: al_01
@@ -719,7 +719,7 @@ lx_000075:
     se_02:
       id: se_02
       gloss: skies
-      definition: skies, in the expression *the skies will open*
+      definition: skies, in the expression _the skies will open_
   date_created: 2022-01-15 20:26:34
   date_modified: 2022-01-15 20:26:34
 lx_000028:
@@ -1064,7 +1064,7 @@ lx_000081:
   part_of_speech: verb
   inflectional_features:
     class: reme
-  etymology: Thale *rapy* 'dirt', through Proto-Taric *räpÿ* 'black, dark'
+  etymology: Thale _rapy_ 'dirt', through Proto-Taric _räpÿ_ 'black, dark'
   allomorphs:
     al_01:
       id: al_01
@@ -1305,7 +1305,7 @@ lx_00006b:
   part_of_speech: noun
   inflectional_features:
     class: rapy
-  etymology: From *roka royma* 'the application of laying'; cf with Thale lau 'RES'
+  etymology: From _roka royma_ 'the application of laying'; cf with Thale lau 'RES'
   notes: ''
   allomorphs:
     al_01:
@@ -1378,7 +1378,7 @@ lx_00006a:
   part_of_speech: adjective
   inflectional_features:
     class: reme
-  etymology: From *mmönnÿ royma*. De-gemination of n and gemination of r unexplained
+  etymology: From _mmönnÿ royma_. De-gemination of n and gemination of r unexplained
   notes: ''
   allomorphs:
     al_01:
@@ -2036,7 +2036,7 @@ lx_000082:
   part_of_speech: noun
   inflectional_features:
     class: lapy
-  etymology: Proto-Taric intensifier *rre-* 'INTS' + *ppy* 'sun'
+  etymology: Proto-Taric intensifier _rre-_ 'INTS' + _ppy_ 'sun'
   allomorphs:
     al_01:
       id: al_01
@@ -2277,7 +2277,7 @@ lx_000076:
   part_of_speech: adjective
   inflectional_features:
     class: reme
-  etymology: Proto-Taric *sämö* rest
+  etymology: Proto-Taric _sämö_ rest
   allomorphs:
     al_01:
       id: al_01
@@ -2640,7 +2640,7 @@ lx_000070:
   part_of_speech: noun
   inflectional_features:
     class: reme
-  etymology: From *köpä ÿkkë* 'dream wisdom'
+  etymology: From _köpä ÿkkë_ 'dream wisdom'
   notes: ''
   allomorphs:
     al_01:
@@ -3246,7 +3246,7 @@ lx_000071:
   part_of_speech: adjective
   inflectional_features:
     class: reme
-  etymology: From *ÿkkë* 'wisdom' and *töÿ*
+  etymology: From _ÿkkë_ 'wisdom' and _töÿ_
   notes: ''
   allomorphs:
     al_01:

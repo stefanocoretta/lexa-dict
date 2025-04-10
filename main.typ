@@ -72,7 +72,7 @@
             #show "lapy": it => smallcaps()[l]
             (#text(fill: maroon)[#value.inflectional_features.class])
           ]
-          y.definition + " "
+          eval(y.definition + " ", mode: "markup")
         }
 
     ]
