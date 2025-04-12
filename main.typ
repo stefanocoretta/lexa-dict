@@ -1,4 +1,4 @@
-#import "lexa.typ": *
+#import "lexa/lexa.typ": *
 
 #align(center)[
   #text(size: 40pt)[*A Thale dictionary*]\
