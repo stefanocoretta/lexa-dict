@@ -1,11 +1,10 @@
+#import "abbreviations.typ": *
+
 #let dict(contents) = {
-  // define abbreviations
-  show "noun": [n.]
-  show "verb": [v.]
-  show "adjective": [adj.]
-  show "adverb": [adv.]
-  show "particle": [ptc.]
-  show "numeral": [num.]
+
+  // Apply abbreviations.
+  // Modify `abbreviations.typ` to customise abbreviations.
+  show: abbreviations
 
   // Print dictionary in 2 columns
   show: doc => columns(2, doc)
