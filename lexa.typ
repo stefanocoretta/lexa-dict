@@ -7,6 +7,9 @@
   show "particle": [ptc.]
   show "numeral": [num.]
 
+  // Print dictionary in 2 columns
+  show: doc => columns(2, doc)
+
   let graphemes = (
     "a", "i", "u",
     "p", "t", "s", "k"
