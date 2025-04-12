@@ -1,18 +1,15 @@
+// Modify `abbreviations.typ` to customise abbreviations.
 #import "abbreviations.typ": *
+// Modify `graphemes.typ` to customise graphemes and sort order.
+#import "graphemes.typ": *
 
 #let dict(contents) = {
 
   // Apply abbreviations.
-  // Modify `abbreviations.typ` to customise abbreviations.
-  show: abbreviations
+  // show: abbreviations
 
   // Print dictionary in 2 columns
   show: doc => columns(2, doc)
-
-  let graphemes = (
-    "a", "i", "u",
-    "p", "t", "s", "k"
-  )
 
   let graphemes_regex = regex("^(" + graphemes.sorted(key: it => -it.len()).join("|") + ")")
 
