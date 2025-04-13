@@ -2,6 +2,8 @@
 #import "abbreviations.typ": *
 // Modify `graphemes.typ` to customise graphemes and sort order.
 #import "graphemes.typ": *
+// Import other modules
+#import "grapheme_dict.typ": *
 
 #let dict(contents) = {
 
@@ -11,26 +13,10 @@
   // Print dictionary in 2 columns
   show: doc => columns(2, doc)
 
-  let graphemes_regex = regex("^(" + graphemes.sorted(key: it => -it.len()).join("|") + ")")
-
-  let grapheme_dict = (:)
-
-  for g in graphemes {
-    grapheme_dict.insert(g, (:))
-  }
-
-  // Extract initial grapheme from word
-  let initial_grapheme(entry) = {
-    let lower = lower(entry)
-    lower.find(graphemes_regex)
-  }
-
-  // Create dictionary with graphemes as keys
-  for (id, item) in contents {
-    let entry_grapheme = initial_grapheme(item.entry)
-
-    grapheme_dict.at(entry_grapheme).insert(item.id, item)
-  }
+  // Create typst dictionary with dictionary entries grouped by
+  // first grapheme.
+  // Modify `graphemes.typ` to customise graphemes and sort order.
+  let grapheme_dict = create_grapheme_dict(contents, graphemes)
 
   for (grapheme, entry_list) in grapheme_dict [
 
