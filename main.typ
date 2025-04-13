@@ -1,12 +1,15 @@
 #import "lexa/lexa.typ": *
 
-#align(center)[
+#place(
+  top + center,
+  float: true,
+  scope: "parent",
+  clearance: 40pt,
+)[
   #text(size: 40pt)[*A Thale dictionary*]\
   
   #text(size: 15pt)[Stefano Coretta]
 ]
-
-#v(40pt)
 
 #dict(
   yaml("lexicon.yaml")
