@@ -6,7 +6,7 @@
 #let dict(contents) = {
 
   // Apply abbreviations.
-  // show: abbreviations
+  show: abbreviations
 
   // Print dictionary in 2 columns
   show: doc => columns(2, doc)
